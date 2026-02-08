@@ -1,0 +1,42 @@
+intent,text
+greeting,Hi
+greeting,Hello
+greeting,Hey
+greeting,Hi there
+greeting,Good morning
+greeting,Good evening
+greeting,Hey buddy
+greeting,Hello chatbot
+
+goodbye,Bye
+goodbye,Goodbye
+goodbye,See you
+goodbye,See you later
+goodbye,Talk to you later
+goodbye,Exit
+goodbye,I am leaving
+goodbye,Quit
+
+thanks,Thanks
+thanks,Thank you
+thanks,Thanks a lot
+thanks,Many thanks
+thanks,Appreciate it
+thanks,Thanks for help
+thanks,Thank you very much
+
+about_ai,What is artificial intelligence
+about_ai,Define artificial intelligence
+about_ai,Explain AI
+about_ai,What is AI
+about_ai,Meaning of artificial intelligence
+about_ai,AI definition
+about_ai,Explain artificial intelligence
+
+about_chatbot,What is a chatbot
+about_chatbot,Define chatbot
+about_chatbot,Explain chatbot
+about_chatbot,What do you do
+about_chatbot,What is your purpose
+about_chatbot,Who are you
+about_chatbot,Tell me about yourself
