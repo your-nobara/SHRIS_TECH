@@ -1,0 +1,11 @@
+amount,transaction_type,location,device,fraud
+1200,online,international,mobile,1
+50,offline,local,card,0
+200,online,local,desktop,0
+5000,online,international,mobile,1
+20,offline,local,card,0
+300,online,local,mobile,0
+7000,online,international,desktop,1
+15,offline,local,card,0
+450,online,local,desktop,0
+9000,online,international,mobile,1
